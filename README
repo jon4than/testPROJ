@@ -3,3 +3,4 @@ and now to tryout the github post-receive url
 will the simple github_hook request deal with case-sensitivity?
 looks like the answer is no. well, just pass in the redmine project name via the project_id param
 d'oh! forgot that you have to fix all local repos after renaming a github project.
+and now to try out a branch
