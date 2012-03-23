@@ -1,2 +1,3 @@
 testing out redmine github sync
 and now to tryout the github post-receive url
+will the simple github_hook request deal with case-sensitivity?
